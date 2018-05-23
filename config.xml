@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="fr.rainetcom.tspmas" version="1.1.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>TSPMAS</name>
+    <name>LE MAS</name>
     <description>
-        Outil pour gérer votre club de sport de A à Z.
+        Réservez vos terrains, ajoutez-vous à des parties et participez aux animations
     </description>
     <author email="contact@rainetcom.fr" href="http://www.rainetcom.fr">
         Team RainetCom
