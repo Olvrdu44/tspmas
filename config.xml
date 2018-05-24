@@ -102,4 +102,7 @@
 	<gap:config-file platform="ios" parent="NSPhotoLibraryUsageDescription">
 		<string>L'application aimerait accéder à la galerie pour vous permettre de modifier votre photo de profil</string>
 	</gap:config-file>
+	<edit-config target="NSPhotoLibraryUsageDescription" file="*-Info.plist" mode="merge">
+		<string>L'application aimerait accéder à la galerie pour vous permettre de modifier votre photo de profil</string>
+	</edit-config>
 </widget>
